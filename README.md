@@ -1,0 +1,3 @@
+# Auto Clicker
+
+JUST AN OTHER AUTO CLICKER LOL
