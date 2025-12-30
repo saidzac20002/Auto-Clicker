@@ -1,3 +1,5 @@
 # Auto Clicker
 
 JUST AN OTHER AUTO CLICKER LOL
+
+**MAC COMMING SOON!!!!!**
